@@ -1,0 +1,31 @@
+2 . What is Computer Science?
+3 . What is Chemistry?
+4 . What is Physics?
+5 . What is Picture?
+6 . Scanner is ___ device?
+7 . Input device is ?
+8 . Speakers are____ devices?
+9 . Which of the following uses a handheld operating system?
+10 . To display the contents of a folder in Windows Explorer you should.
+11 . The CPU comprises of Control, Memory and _____ units.
+12 . _____ is the most important/powerful computer in a typical network.
+13 . A(n) _____ appearing on a web page opens another document when clicked.
+14 . Which of these is not a means of personal communication on the internet?
+15 . Which of these is a point and draw device?
+16 . To find the Paste Special option, you use the clipboard group on the.
+17 . What refers to a set of characters of a particular design?
+18 . Which part of the computer is used for calculating and comparing?
+19 . A(n) ____ allows you to access your e-mail from anywhere.
+20 . Which of the following cannot be part of an e-mail address?
+21 . A computer's type, processor and operating system define its___.
+22 . What is the term for how words will appear on a page?
+23 . When sending an e-mail, the … line describe the contents of the message.
+24 . All the deleted files go to______.
+25 . You organise files by storing them in____.
+26 . A website address is a unique name that identifies a specific___on the web.
+27 . The primary purpose of software is to turn data into.
+28 . The secret code that restricts entry to some programs.
+29 . Computers use the____number system to store data and perform calculations.
+30 . _____is the process of carrying commands.
+31 . An error in a computer program is____.
+32 . Which of the following refers to too much electricity and may cause a voltage surge?

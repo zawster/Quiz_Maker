@@ -1,0 +1,31 @@
+2 [A].Study of matter [B].Study of Technology [C].Study of Reactions [D].Study of Chemicals
+3 [A].Study of matter [B].Study of Solid [C].Study of Reactions [D].Study of Chemicals
+4 [A].Study of matter [B].Study of Solid [C].Study of Reactions [D].Study of Chemicals
+5 [A].JPG [B].Scenery [C].PNG [D].Beautiful
+6 [A].Input [B].Output [C].Both [D].None
+7 [A].Mouse [B].Speaker [C].Printer [D].Ploter
+8 [A].Input [B].Output [C].Both [D].None
+9 [A].supercomputer [B].PDA [C].Personal computer [D].Laptop
+10 [A].click on it [B].collapse it [C].give it a password [D].None
+11 [A].Microprocessor [B].Arithmetic/Logic [C].ROM [D].Output
+12 [A].Desktop [B].Network client [C].Network server [D].Network station
+13 [A].anchor [B].URL [C].hyperlink [D]. reference
+14 [A].Chat [B].instant messaging [C].Instanotes [D].Electronic mail
+15 [A].Mouse [B].Scanner [C].Printer [D].CD-ROM
+16 [A].Design [B].Slide show [C].Page layout [D].Home                      
+17 [A].Keyface [B].Formation [C].Calligraph [D].Stencil
+18 [A].ALU [B].Control unit [C].Disk unit [D].Modem
+19 [A].forum [B].webmail interface [C].weblog [D].message board
+20 [A].Period [B].At sign [C].Space [D].Underscore
+21 [A].Brand [B].Size [C].Platform [D].Speed
+22 [A].Text formatting [B].Typeface [C].Point size [D].Character
+23 [A].Subject [B].To [C].Contents [D].CC
+24 [A].Recycle bin [B].Task bar [C].Tool bar [D].My computer
+25 [A].Archives [B].Folders [C].Indexes [D].Lists
+26 [A].Web browser [B].Website [C].PDA [D].Link
+27 [A].Websites [B].Information [C].Programs [D].Objects
+28 [A].Password [B].Passport [C].Entry code [D].Access code
+29 [A].Binary [B].Octal [C].Decimal [D].Hexadecimal                                       
+30 [A].Fetching [B].Storing [C].Executing [D].Decoding
+31 [A].Crash [B].Power Failure [C].Bug [D].Virus
+32 [A].Anomaly [B].Shock [C].Spike [D].Virus
